@@ -9,7 +9,7 @@ namespace UCNVG
     {
          protected override MethodBase GetTargetMethod()
          {
-            var result = typeof(NightVision).GetMethod("method_0", BindingFlags.Instance | BindingFlags.NonPublic);
+            var result = typeof(NightVision).GetMethod("method_1", BindingFlags.Instance | BindingFlags.NonPublic);
             return result;
          }
 
