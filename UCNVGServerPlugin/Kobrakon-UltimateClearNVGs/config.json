@@ -1,0 +1,38 @@
+{
+    "MasterFunction":
+    {
+        "Enabled": true
+    },
+    "GPNVG":
+    {
+        "ApplyChanges": true,
+        "R": 83,
+        "G": 255,
+        "B": 69,
+        "A": 254
+    },
+    "PNV10T":
+    {
+        "ApplyChanges": true,
+        "R": 0,
+        "G": 255,
+        "B": 32,
+        "A": 254
+    },
+    "N15":
+    {
+        "ApplyChanges": true,
+        "R": 0,
+        "G": 255,
+        "B": 243,
+        "A": 254
+    },
+    "PVS14":
+    {
+        "ApplyChanges": true,
+        "R": 183,
+        "G": 255,
+        "B": 86,
+        "A": 254
+    }
+}
