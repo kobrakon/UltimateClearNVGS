@@ -1,6 +1,9 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable no-constant-condition */
 /* eslint-disable prefer-const */
+
+// i know theres a much better way to do this I tried doing shit with switch statements to make it more efficient but it was being a bitch
+// asshole
 import { DependencyContainer } from "tsyringe";
 import { IPostDBLoadMod } from "@spt-aki/models/external/IPostDBLoadMod";
 import { DatabaseServer } from "@spt-aki/servers/DatabaseServer";
